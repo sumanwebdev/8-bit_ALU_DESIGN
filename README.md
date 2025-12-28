@@ -78,10 +78,13 @@ The testbench uses *directed testing*, manually asserting specific values for A,
 * **`ALU_8bit_tb.v`**: The testbench file that generates stimuli (inputs A, B, and Select) to verify the design.
 
 ## 🚀 Getting Started
-Clone the repository:
-git clone https://github.com/yourusername/8_bit_ALU.git
-cd 8_bit_ALU
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sumanwebdev/8-bit_ALU_DESIGN.git
+2. Navigate to the repository directory:
+    ```bash
+    cd 8-bit_ALU_DESIGN
 
 ## 🚀 How to Run
 1.  Open **Xilinx Vivado**.
