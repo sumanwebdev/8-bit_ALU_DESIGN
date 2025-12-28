@@ -83,3 +83,12 @@ The testbench uses *directed testing*, manually asserting specific values for A,
 3.  Add `ALU_8bit.v` as a Design Source.
 4.  Add `ALU_8bit_tb.v` as a Simulation Source.
 5.  Run **Behavioral Simulation**.
+6.  
+## 📚 Learning Outcomes
+- Designing combinational logic using Verilog
+- Implementing shift and rotate operations
+- Using conditional operators for comparisons
+- Writing effective testbenches
+- Visualizing RTL schematics and simulation waveforms
+## 🙌 Acknowledgments
+This project was developed as part of a digital design learning initiative, with a focus on RTL modeling and simulation. Special thanks to the Vivado community and documentation resources.
