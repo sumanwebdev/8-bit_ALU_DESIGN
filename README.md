@@ -12,7 +12,7 @@ This project implements a fully functional **8-bit Arithmetic Logic Unit (ALU)**
 This design accepts two 8-bit inputs (`A` and `B`) and a 4-bit selection line (`ALU_Sel`) to determine the operation. The design has been verified using a custom testbench and simulated in **Xilinx Vivado**.
 
 ## 📸 Block Diagram & Design
-Below is the conceptual block diagram of the ALU showing inputs `A`, `B`, and `Opcode`, and the resulting output.
+Below is the conceptual block diagram of the ALU showing inputs `A`, `B`, and `Opcode(ALU_Sel)`, and the resulting output.
 
 ![Block Diagram](block_diagram.png)
 
