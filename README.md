@@ -77,13 +77,19 @@ The testbench uses *directed testing*, manually asserting specific values for A,
 * **`ALU_8bit.v`**: The main module defining the ALU logic using a `case` statement.
 * **`ALU_8bit_tb.v`**: The testbench file that generates stimuli (inputs A, B, and Select) to verify the design.
 
+## 🚀 Getting Started
+Clone the repository:
+git clone https://github.com/yourusername/8_bit_ALU.git
+cd 8_bit_ALU
+
+
 ## 🚀 How to Run
 1.  Open **Xilinx Vivado**.
 2.  Create a new RTL Project.
 3.  Add `ALU_8bit.v` as a Design Source.
 4.  Add `ALU_8bit_tb.v` as a Simulation Source.
 5.  Run **Behavioral Simulation**.
-6.  
+   
 ## 📚 Learning Outcomes
 - Designing combinational logic using Verilog
 - Implementing shift and rotate operations
